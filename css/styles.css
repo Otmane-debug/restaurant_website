@@ -14,7 +14,7 @@
 .row-content{
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
+    border-bottom: 1px  double;
     min-height: 400px;
 }
 
@@ -37,3 +37,16 @@
     margin: 0 px auto;
     color: darkgray;
 }
+
+.navbar{
+    background-color:rgb(196, 183, 166);
+}
+.footer{
+    background-color:rgb(196, 183, 166);
+}
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
